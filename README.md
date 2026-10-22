@@ -2,7 +2,7 @@
 
 Zdjęcia produktowe sklepu jubilerwadowice.pl używane w imporcie CSV Shoper.
 
-- `wamagold/` – poprawione zdjęcia obrączek WamaGold
+- `wamagold_v2/` – poprawione zdjęcia obrączek WamaGold (wersja z 22.10.2026)
 - `lazur/` – poprawione zdjęcia obrączek Łazur (nazwa pliku = kod produktu)
 - `opakowania/` – zdjęcia opakowań
 
